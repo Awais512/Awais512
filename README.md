@@ -23,6 +23,6 @@ I thrive in collaborative environments and excel as a problem solver. Working cr
 
 ## Contact Me
 
-Feel free to reach out if you'd like to connect or collaborate on any projects. You can find me on [LinkedIn](https://www.linkedin.com/in/awais-raza) or [Twitter](https://twitter.com/awaisraza_).
+Feel free to reach out if you'd like to connect or collaborate on any projects. You can find me on [LinkedIn](https://www.linkedin.com/in/awais-raza512 ) or [Twitter](https://twitter.com/AwaisCh5121472_).
 
 Thank you for visiting my GitHub profile! 🚀
