@@ -2,7 +2,7 @@
 
 ## Hello World! 👋
 
-I'm Awais Raza, a passionate Full Stack Developer with a knack for building scalable web applications. Currently based in the UK, I've been crafting digital solutions since 2019, including significant experience at Astute Solutions in Lahore where I specialized in financial and banking systems.
+I'm Awais Raza, a passionate Full Stack Developer with a knack for building scalable web applications. Currently based in the UK, I've been crafting digital solutions since 2019, including significant experience at Astute Solutions in Lahore where I specialized in financial and banking systems and currently working in Manchester as a Fullstack Engineer working on a Health Care platform.
 
 ## 🛠️ Tech Stack
 
