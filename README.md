@@ -1,4 +1,4 @@
-# Awais Raza | Full Stack Engineer 🚀
+# Awais Raza | Full Stack Engineer | Frontend Engineer 🚀
 
 Full Stack Developer specializing in scalable web applications with expertise in React, Node.js, and cloud infrastructure. Based in Manchester, UK.
 
